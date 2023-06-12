@@ -2,3 +2,4 @@
 // Add unit tests for staking module
 // Improve security in decentralized applications
 // Integrate decentralized oracles for data feeds
+// Add support for decentralized credit scoring
