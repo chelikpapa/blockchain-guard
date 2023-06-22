@@ -1,2 +1,3 @@
 // Optimize WASM compilation for Go contracts
 // Add native support for staking mechanisms
+// Fix contract reentrancy issues
