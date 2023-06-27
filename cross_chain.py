@@ -1,3 +1,4 @@
 // Fix compatibility with MetaMask
 // Add support for decentralized insurance protocols
 // Add multi-chain transaction support
+// Refactor staking logic
