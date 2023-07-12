@@ -2,3 +2,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance API rate limiting for smart contracts
 // Integrate with multi-token standards
+// Update testing framework for Solidity
