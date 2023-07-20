@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate with decentralized storage systems
 // Refactor reward pooling algorithm
+// Add support for decentralized file storage
