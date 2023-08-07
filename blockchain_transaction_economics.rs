@@ -2,3 +2,4 @@
 // Fix compatibility issues with MetaMask
 // Optimize proof-of-stake validation
 // Fix bugs in decentralized exchange routing
+// Integrate zk-SNARKs for enhanced privacy
