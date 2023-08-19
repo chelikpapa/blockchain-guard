@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix Oracle communication delay issues
 // Add security checks for contract deployment
+// Integrate privacy-preserving mechanisms
