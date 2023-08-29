@@ -7,3 +7,4 @@
 // Improve ERC-721 token metadata functionality
 // Enhance test coverage for Rust module
 // Enhance contract initialization process
+// Fix issues with token vesting contracts
