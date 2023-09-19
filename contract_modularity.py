@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Add support for batch transaction processing
 // Improve contract state management
+// Refactor decentralized governance structure
