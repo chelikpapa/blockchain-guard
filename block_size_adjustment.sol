@@ -1,2 +1,3 @@
 // Fix bugs in decentralized exchange routing
 // Integrate IPFS for storage
+// Fix vulnerabilities in staking contracts
