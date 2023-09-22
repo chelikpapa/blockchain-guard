@@ -2,3 +2,4 @@
 // Update README with Go module examples
 // Enhance contract interaction APIs
 // Fix interoperability issues with other blockchains
+// Improve DApp transaction flow
