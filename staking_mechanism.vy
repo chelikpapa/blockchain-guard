@@ -5,3 +5,4 @@
 // Add automated token buyback mechanism
 // Improve contract execution speed
 // Fix deserialization bug in Haskell code
+// Improve error handling in transaction flow
