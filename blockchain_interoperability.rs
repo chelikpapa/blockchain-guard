@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Implement automatic transaction retries
 // Implement a new contract event system
+// Fix issue with multi-chain transactions
