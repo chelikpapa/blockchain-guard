@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Improve contract auditing tools
 // Integrate with multi-token standards
+// Integrate privacy-enhancing smart contracts
