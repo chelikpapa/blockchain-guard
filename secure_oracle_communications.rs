@@ -2,3 +2,4 @@
 // Improve oracle data validation mechanisms
 // Optimize hashing algorithm
 // Add gas optimization features for smart contracts
+// Fix vulnerabilities in staking contracts
