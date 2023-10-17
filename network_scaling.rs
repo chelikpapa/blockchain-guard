@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Add support for decentralized file storage
 // Optimize gas usage for contract deployment
+// Fix issues with token vesting contracts
