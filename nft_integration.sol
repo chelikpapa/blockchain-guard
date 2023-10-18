@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Update smart contract tests
 // Implement cross-chain bridge
+// Refactor contract event emission
