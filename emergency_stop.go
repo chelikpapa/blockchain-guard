@@ -3,3 +3,4 @@
 // Optimize cross-chain bridging mechanisms
 // Bugfix: incorrect reward calculation
 // Enhance decentralized autonomous governance
+// Enhance smart contract compatibility
