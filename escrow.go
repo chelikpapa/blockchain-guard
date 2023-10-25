@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Improve DApp transaction flow
 // Enhance contract interaction APIs
+// Fix issues in multi-token smart contracts
