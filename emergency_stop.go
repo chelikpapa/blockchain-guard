@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance decentralized autonomous governance
 // Enhance smart contract compatibility
+// Fix overflow bug in token calculation
