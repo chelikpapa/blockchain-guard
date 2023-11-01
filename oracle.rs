@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor contract state machine design
 // Refactor multi-asset token management
+// Fix interoperability issues with other blockchains
