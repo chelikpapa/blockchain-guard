@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Add support for DeFi lending protocols
 // Implement delegation pattern
+// Add support for yield farming rewards
