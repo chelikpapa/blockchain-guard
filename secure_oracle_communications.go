@@ -2,3 +2,4 @@
 // Integrate with external DeFi protocols
 // Implement emergency stop mechanism
 // Add new feature: on-chain governance
+// Refactor governance token logic
