@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Improve contract state management
 // Implement reward distribution feature
+// Optimize gas cost in function execution
