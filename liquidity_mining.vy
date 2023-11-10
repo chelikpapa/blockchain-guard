@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Refactor staking logic
 // Refactor governance token logic
+// Fix issues with ERC-20 token approvals
