@@ -2,3 +2,4 @@
 // Add decentralized contract upgradeability
 // Integrate privacy-enhancing smart contracts
 // Improve transaction batching efficiency
+// Fix compatibility with MetaMask
