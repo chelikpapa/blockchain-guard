@@ -2,3 +2,4 @@
 // Refactor oracle interaction logic
 // Integrate Chainlink oracles
 // Improve contract interaction via APIs
+// Optimize storage for off-chain data
