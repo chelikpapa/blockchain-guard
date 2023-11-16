@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Refactor multi-asset token management
 // Fix interoperability issues with other blockchains
+// Enhance cryptographic primitives in contracts
