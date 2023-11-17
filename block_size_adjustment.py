@@ -2,3 +2,4 @@
 // Add native support for staking rewards
 // Enhance transaction monitoring
 // Enhance transaction monitoring
+// Implement delegation pattern
