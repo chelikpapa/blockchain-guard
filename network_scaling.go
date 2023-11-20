@@ -3,3 +3,4 @@
 // Optimize token burn process
 // Enhance cryptographic primitives in contracts
 // Enhance governance contract flexibility
+// Enhance privacy features using zk-STARKs
