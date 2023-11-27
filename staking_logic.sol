@@ -4,3 +4,4 @@
 // Fix issues in token transfer logic
 // Enhance API rate limiting for smart contracts
 // Integrate decentralized anonymous identity systems
+// Fix bugs in NFT metadata handling
