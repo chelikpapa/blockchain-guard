@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Fix overflow bug in token calculation
 // Fix transaction replay issue
+// Add support for multiple consensus mechanisms
