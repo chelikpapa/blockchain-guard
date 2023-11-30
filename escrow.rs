@@ -3,3 +3,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix issue with multi-chain transactions
 // Optimize hashing algorithm
+// Improve decentralized exchange (DEX) liquidity
