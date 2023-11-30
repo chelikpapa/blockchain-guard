@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Add native support for staking rewards
 // Improve gas estimation for transactions
+// Update README with Go module examples
