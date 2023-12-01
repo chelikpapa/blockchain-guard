@@ -3,3 +3,4 @@
 // Improve DApp transaction flow
 // Optimize gas usage in smart contracts
 // Enhance decentralized autonomous organizations
+// Add support for ERC-1155 tokens
