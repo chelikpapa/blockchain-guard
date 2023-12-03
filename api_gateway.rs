@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Add multi-chain governance support
 // Enhance gas fee management
+// Add security checks for contract deployment
