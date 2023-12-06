@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Add dynamic contract fees
 // Add dynamic contract fees
+// Enhance contract upgrade mechanism
