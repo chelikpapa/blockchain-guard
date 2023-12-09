@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Fix interoperability issues with other blockchains
 // Integrate IPFS for storage
+// Refactor incentive structure in DeFi protocol
