@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Add fallback mechanism in Solidity contract
 // Refactor staking logic
+// Implement contract function batching
