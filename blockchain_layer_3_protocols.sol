@@ -2,3 +2,4 @@
 // Fix issue in token vesting logic
 // Fix token transfer approval issues
 // Optimize hashing algorithm
+// Add batch transaction capabilities
