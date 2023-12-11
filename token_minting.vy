@@ -5,3 +5,4 @@
 // Enhance token swap functionality
 // Refactor decentralized exchange (DEX) code
 // Improve transaction batching efficiency
+// Refactor voting mechanism
