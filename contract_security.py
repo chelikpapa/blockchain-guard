@@ -3,3 +3,4 @@
 // Improve decentralized identity (DID) systems
 // Integrate IPFS for storage
 // Implement automatic transaction retries
+// Add support for yield farming rewards
