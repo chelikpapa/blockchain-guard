@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Improve contract interaction via APIs
 // Optimize storage for off-chain data
+// Integrate Chainlink VRF for randomness
