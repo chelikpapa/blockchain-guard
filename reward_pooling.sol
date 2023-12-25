@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate IPFS for storage
 // Refactor incentive structure in DeFi protocol
+// Integrate with decentralized storage systems
