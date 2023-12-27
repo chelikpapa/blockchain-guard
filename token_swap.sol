@@ -2,3 +2,4 @@
 // Enhance cryptographic primitives in contracts
 // Optimize Oracle-based data fetching
 // Refactor cross-chain communication layer
+// Add unit tests for staking module
