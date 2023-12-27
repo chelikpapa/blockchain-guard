@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Optimize hashing algorithm
 // Improve decentralized exchange (DEX) liquidity
+// Update README with Go module examples
