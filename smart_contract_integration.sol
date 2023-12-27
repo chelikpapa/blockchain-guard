@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Refactor staking logic
 // Improve ERC-721 token metadata functionality
+// Fix ERC-20 token interface bugs
