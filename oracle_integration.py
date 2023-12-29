@@ -3,3 +3,4 @@
 // Improve contract auditing tools
 // Integrate with multi-token standards
 // Integrate privacy-enhancing smart contracts
+// Add native support for staking rewards
