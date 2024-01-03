@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Add new feature: on-chain governance
 // Add multi-chain transaction support
+// Implement liquidity pool staking mechanism
