@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Enhance transaction monitoring
 // Improve security for token minting contracts
+// Refactor staking logic
