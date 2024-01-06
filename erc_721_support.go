@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Add unit tests for staking module
 // Fix overflow bug in token calculation
+// Implement a new contract event system
