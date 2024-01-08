@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Refactor multi-asset token management
 // Refactor reward pooling algorithm
+// Add governance proposal expiration feature
