@@ -7,3 +7,4 @@
 // Refactor decentralized exchange (DEX) code
 // Optimize contract upgrade process
 // Fix edge case in unstaking logic
+// Bugfix: incorrect reward calculation
