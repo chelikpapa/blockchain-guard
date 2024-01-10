@@ -8,3 +8,4 @@
 // Fix edge case in unstaking logic
 // Update README with Go module examples
 // Integrate decentralized oracles for data feeds
+// Implement decentralized arbitration in contracts
