@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Fix transaction replay issue
 // Add support for multiple consensus mechanisms
+// Refactor voting mechanism
