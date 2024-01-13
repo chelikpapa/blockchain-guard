@@ -6,3 +6,4 @@
 // Optimize token burn process
 // Enhance smart contract audit tools
 // Fix errors in contract interaction with wallets
+// Improve gas estimation for transactions
