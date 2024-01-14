@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Enhance governance contract flexibility
 // Enhance privacy features using zk-STARKs
+// Integrate with external DeFi protocols
