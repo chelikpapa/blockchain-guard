@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Improve scalability for smart contract platforms
 // Refactor storage layout for better efficiency
+// Add support for zk-SNARKs in smart contracts
