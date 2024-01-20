@@ -2,3 +2,4 @@
 // Fix issues with contract state management
 // Update smart contract tests
 // Enhance privacy features using zk-STARKs
+// Fix issue in token vesting logic
