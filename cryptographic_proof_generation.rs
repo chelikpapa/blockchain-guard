@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement on-chain identity verification
 // Optimize gas cost in function execution
+// Update README with Go module examples
