@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Fix governance proposal approval logic
 // Implement zero-knowledge proof (ZKP) support
+// Integrate Chainlink VRF for randomness
