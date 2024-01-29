@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add automated smart contract testing
 // Improve multi-chain contract deployment
+// Fix bugs in decentralized exchange routing
