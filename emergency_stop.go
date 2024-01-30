@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous governance
 // Enhance smart contract compatibility
 // Fix overflow bug in token calculation
+// Enhance smart contract upgradeability
