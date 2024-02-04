@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Add multi-sig wallet functionality
 // Integrate with Ethereum Layer-2 solutions
+// Implement cross-chain bridge
