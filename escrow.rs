@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Improve decentralized exchange (DEX) liquidity
 // Update README with Go module examples
+// Improve staking pool reward management
