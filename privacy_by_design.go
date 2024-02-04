@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Integrate with decentralized identity providers
 // Add governance proposal expiration feature
+// Fix scalability issues with smart contracts
