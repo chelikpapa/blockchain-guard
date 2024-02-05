@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Improve ERC-721 token metadata functionality
 // Fix ERC-20 token interface bugs
+// Update testing framework for Solidity
