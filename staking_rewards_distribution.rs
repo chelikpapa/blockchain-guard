@@ -2,3 +2,4 @@
 // Refactor oracle interaction logic
 // Add multi-sig wallet functionality
 // Enhance contract modularity
+// Enhance smart contract upgradeability
