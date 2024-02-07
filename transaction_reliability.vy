@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Optimize storage for off-chain data
 // Refactor decentralized governance structure
+// Refactor cross-chain communication layer
