@@ -5,3 +5,4 @@
 // Optimize oracle data fetching mechanism
 // Integrate IPFS for storage
 // Enhance smart contract upgradeability
+// Implement delegation pattern
