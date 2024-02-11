@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Add security checks for contract deployment
 // Improve token minting flow efficiency
+// Add multi-sig wallet functionality
