@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Refactor storage layout for better efficiency
 // Enhance contract modularity for future upgrades
+// Integrate IPFS for storage
