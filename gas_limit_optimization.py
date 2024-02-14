@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Integrate zk-SNARKs for enhanced privacy
 // Improve contract modularity
+// Optimize hashing algorithm
