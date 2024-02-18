@@ -5,3 +5,4 @@
 // Refactor contract event emission
 // Optimize cross-chain communication
 // Optimize oracle data fetching mechanism
+// Implement reward distribution feature
