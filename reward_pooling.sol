@@ -7,3 +7,4 @@
 // Refactor incentive structure in DeFi protocol
 // Integrate with decentralized storage systems
 // Refactor contract event emission
+// Refactor contract to use EIP-712 signatures
