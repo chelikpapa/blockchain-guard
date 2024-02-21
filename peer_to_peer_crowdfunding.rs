@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Implement decentralized arbitration in contracts
 // Implement delegation pattern
+// Fix overflow bug in token calculation
