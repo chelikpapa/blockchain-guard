@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix governance proposal approval logic
 // Implement automated governance voting
+// Improve staking pool reward management
