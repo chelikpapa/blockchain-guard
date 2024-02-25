@@ -6,3 +6,4 @@
 // Fix security vulnerability in random number generation
 // Enhance smart contract upgradeability
 // Refactor decentralized exchange (DEX) code
+// Improve decentralized exchange (DEX) liquidity
