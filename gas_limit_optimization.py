@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve contract modularity
 // Optimize hashing algorithm
+// Add support for zk-SNARKs in smart contracts
