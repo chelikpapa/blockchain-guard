@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles for price data
 // Implement reward distribution feature
 // Enhance gas fee management
+// Integrate with decentralized prediction markets
