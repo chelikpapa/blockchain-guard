@@ -3,3 +3,4 @@
 // Refactor multi-asset token management
 // Refactor reward pooling algorithm
 // Add governance proposal expiration feature
+// Fix ERC-20 token interface bugs
