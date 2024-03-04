@@ -4,3 +4,4 @@
 // Optimize gas cost in function execution
 // Improve contract modularity
 // Fix compatibility issues with major wallets
+// Integrate zk-rollups for scaling
