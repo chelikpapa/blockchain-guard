@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Integrate Chainlink oracles
 // Improve security for token minting contracts
+// Add unit tests for staking module
