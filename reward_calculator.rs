@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve error handling in transaction flow
 // Fix token transfer approval issues
+// Fix ERC-20 token interface bugs
