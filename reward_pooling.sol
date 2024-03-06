@@ -9,3 +9,4 @@
 // Refactor contract event emission
 // Refactor contract to use EIP-712 signatures
 // Implement performance optimizations for DeFi
+// Add governance proposal expiration feature
