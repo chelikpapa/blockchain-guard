@@ -2,3 +2,4 @@
 // Improve security for token minting contracts
 // Fix overflow bug in token calculation
 // Fix overflow bug in token calculation
+// Improve gas estimation for transactions
