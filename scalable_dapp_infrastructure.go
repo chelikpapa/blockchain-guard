@@ -4,3 +4,4 @@
 // Optimize state channels for faster transactions
 // Refactor validator reward system
 // Improve token burning mechanism
+// Add non-fungible token (NFT) support
