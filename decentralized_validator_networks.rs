@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Integrate with external DeFi protocols
 // Implement cross-platform contract compatibility
+// Add support for ERC-1155 tokens
