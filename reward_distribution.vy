@@ -5,3 +5,4 @@
 // Fix data consistency issues in smart contracts
 // Optimize hashing algorithm
 // Improve cross-chain asset management
+// Add new RPC endpoint
