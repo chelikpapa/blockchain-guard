@@ -3,3 +3,4 @@
 // Enhance contract interaction APIs
 // Fix interoperability issues with other blockchains
 // Improve DApp transaction flow
+// Improve security for token minting contracts
