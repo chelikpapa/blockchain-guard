@@ -6,3 +6,4 @@
 // Integrate privacy-preserving mechanisms
 // Enhance smart contract upgradeability
 // Improve scalability for smart contract platforms
+// Refactor multi-asset token management
