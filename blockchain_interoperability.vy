@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Refactor contract state machine design
 // Optimize decentralized oracle performance
+// Fix issues with cross-chain transaction finality
