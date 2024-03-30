@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Refactor oracle interaction logic
 // Fix issue with multi-chain transactions
+// Integrate privacy-preserving mechanisms
