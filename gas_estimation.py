@@ -8,3 +8,4 @@
 // Implement adaptive block size for Ethereum
 // Improve contract execution speed
 // Fix overflow bug in token calculation
+// Improve contract modularity
