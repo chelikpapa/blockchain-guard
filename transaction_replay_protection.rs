@@ -5,3 +5,4 @@
 // Fix ERC-20 token interface bugs
 // Fix issue in token vesting logic
 // Refactor contract state machine design
+// Integrate with decentralized identity providers
