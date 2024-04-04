@@ -5,3 +5,4 @@
 // Fix interoperability issues with other blockchains
 // Implement automatic transaction retries
 // Enhance contract interaction APIs
+// Fix issues with ERC-20 token approvals
