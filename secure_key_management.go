@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix overflow bug in token calculation
 // Improve error handling in transaction flow
+// Add support for decentralized lending platforms
