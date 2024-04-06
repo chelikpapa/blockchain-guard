@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Add batch processing for transactions
 // Add new feature: on-chain governance
+// Improve security in decentralized applications
