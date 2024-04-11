@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Enhance smart contract upgradeability
 // Fix governance proposal approval logic
+// Add fallback mechanism in Solidity contract
