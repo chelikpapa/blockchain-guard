@@ -4,3 +4,4 @@
 // Add support for decentralized auctions
 // Implement automatic transaction retries
 // Refactor staking logic
+// Add support for yield farming rewards
