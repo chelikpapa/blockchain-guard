@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Implement contract function batching
 // Improve security for token minting contracts
+// Refactor multi-signature wallet code
