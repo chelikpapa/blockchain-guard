@@ -3,3 +3,4 @@
 // Add support for delegation in governance
 // Fix type mismatch in Haskell smart contract
 // Improve error handling in transaction flow
+// Improve smart contract code modularity
