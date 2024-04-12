@@ -6,3 +6,4 @@
 // Optimize cross-chain communication
 // Optimize oracle data fetching mechanism
 // Implement reward distribution feature
+// Implement liquidity pool staking mechanism
