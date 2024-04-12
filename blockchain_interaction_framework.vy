@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Add slashing mechanism for malicious actors
 // Optimize proof-of-stake validation
+// Refactor staking logic
