@@ -7,3 +7,4 @@
 // Fix transaction replay issue
 // Add support for multiple consensus mechanisms
 // Refactor voting mechanism
+// Improve contract creation process
