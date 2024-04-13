@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Implement reward distribution feature
 // Fix governance proposal approval logic
+// Refactor token distribution mechanism
