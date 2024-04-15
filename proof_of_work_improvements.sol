@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Enhance gas fee management
 // Optimize gas usage in smart contracts
+// Fix bugs in NFT metadata handling
