@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Refactor validator reward system
 // Improve contract verification speed
+// Fix errors in NFT minting logic
