@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Enhance gas fee management
 // Add support for ERC-1155 tokens
+// Bugfix: incorrect reward calculation
