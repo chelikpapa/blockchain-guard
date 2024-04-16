@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Refactor decentralized governance structure
 // Optimize hashing algorithm
+// Refactor contract to use EIP-712 signatures
