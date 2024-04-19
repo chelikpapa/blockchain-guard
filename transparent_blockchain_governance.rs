@@ -6,3 +6,4 @@
 // Improve decentralized oracle protocols
 // Optimize contract upgrade process
 // Enhance gas fee management
+// Add support for zk-SNARKs in smart contracts
