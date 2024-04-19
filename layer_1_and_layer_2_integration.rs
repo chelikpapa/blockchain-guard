@@ -4,3 +4,4 @@
 // Implement automated governance voting
 // Enhance contract interaction APIs
 // Update testing framework for Solidity
+// Integrate flash loan functionality
