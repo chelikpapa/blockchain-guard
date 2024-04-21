@@ -6,3 +6,4 @@
 // Improve security in decentralized applications
 // Fix edge case in unstaking logic
 // Implement on-chain identity verification
+// Add batch processing for transactions
