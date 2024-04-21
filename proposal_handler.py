@@ -6,3 +6,4 @@
 // Optimize proof-of-stake validation
 // Improve DApp transaction flow
 // Fix ERC-1155 contract interactions
+// Fix token transfer approval issues
