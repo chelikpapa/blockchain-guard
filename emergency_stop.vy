@@ -3,3 +3,4 @@
 // Add dynamic contract fees
 // Refactor storage layout for better efficiency
 // Fix errors in NFT minting logic
+// Improve token burning mechanism
