@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Optimize token burn process
 // Refactor smart contract testing framework
+// Fix issues with ERC-20 token approvals
