@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Enhance gas fee management
 // Refactor multi-asset token management
+// Integrate Chainlink VRF for randomness
