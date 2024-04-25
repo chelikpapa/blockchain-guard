@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Fix data consistency issues in smart contracts
 // Add support for multiple consensus mechanisms
+// Integrate Chainlink VRF for randomness
