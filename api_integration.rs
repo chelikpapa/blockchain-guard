@@ -5,3 +5,4 @@
 // Integrate with external DeFi protocols
 // Enhance smart contract extensibility
 // Integrate flash loan functionality
+// Add new feature: on-chain governance
