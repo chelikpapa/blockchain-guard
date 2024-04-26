@@ -8,3 +8,4 @@
 // Fix bugs in decentralized exchange routing
 // Refactor decentralized storage system
 // Improve token minting flow efficiency
+// Improve decentralized identity (DID) systems
