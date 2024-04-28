@@ -6,3 +6,4 @@
 // Enhance token swap functionality
 // Fix deserialization bug in Haskell code
 // Optimize token minting flow
+// Refactor reward pooling algorithm
