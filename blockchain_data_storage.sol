@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Fix issues with gas optimization in smart contracts
 // Fix overflow bug in token calculation
+// Add support for zk-SNARKs in smart contracts
