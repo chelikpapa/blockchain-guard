@@ -7,3 +7,4 @@
 // Update README with Go module examples
 // Improve staking pool reward management
 // Improve API rate limiting
+// Refactor cross-chain communication layer
