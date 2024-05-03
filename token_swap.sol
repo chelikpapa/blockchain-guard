@@ -4,3 +4,4 @@
 // Refactor cross-chain communication layer
 // Add unit tests for staking module
 // Optimize gas usage in smart contracts
+// Optimize token burn process
