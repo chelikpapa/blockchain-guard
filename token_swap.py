@@ -7,3 +7,4 @@
 // Fix issues with contract state management
 // Add batch transaction capabilities
 // Enhance test coverage for Rust module
+// Add native support for staking rewards
