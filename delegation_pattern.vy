@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Enhance governance contract flexibility
 // Implement a new contract event system
+// Refactor storage layout for better efficiency
