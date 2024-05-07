@@ -6,3 +6,4 @@
 // Improve cross-chain asset management
 // Optimize gas usage for contract deployment
 // Optimize token minting flow
+// Add governance proposal expiration feature
