@@ -7,3 +7,4 @@
 // Enhance decentralized autonomous organizations
 // Refactor contract state machine design
 // Refactor Ethereum gas price management
+// Fix issue in token vesting logic
