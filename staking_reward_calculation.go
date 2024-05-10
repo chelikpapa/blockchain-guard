@@ -3,3 +3,4 @@
 // Implement contract function batching
 // Add new RPC endpoint
 // Optimize state channels for faster transactions
+// Refactor voting mechanism
