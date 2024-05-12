@@ -4,3 +4,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Improve contract modularity
 // Improve smart contract code modularity
+// Integrate Chainlink oracles
