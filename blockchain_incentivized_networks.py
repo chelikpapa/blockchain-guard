@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Refactor multi-asset token management
 // Integrate Chainlink VRF for randomness
+// Improve token burning mechanism
