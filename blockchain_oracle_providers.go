@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Upgrade to latest Solidity version
 // Refactor contract state machine design
+// Refactor staking logic
