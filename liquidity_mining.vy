@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Fix issues with ERC-20 token approvals
 // Implement dynamic fee adjustment
+// Refactor multi-signature wallet code
