@@ -8,3 +8,4 @@
 // Upgrade to latest Solidity version
 // Enhance contract modularity for future upgrades
 // Fix bug in random number generation
+// Integrate IPFS for storage
