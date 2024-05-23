@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Optimize gas cost in function execution
 // Update README with Go module examples
+// Add unit tests for staking module
