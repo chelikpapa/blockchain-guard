@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Add decentralized contract upgradeability
 // Integrate zk-rollups for scaling
+// Improve gas fee estimation accuracy
