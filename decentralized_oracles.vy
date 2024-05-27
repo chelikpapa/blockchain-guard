@@ -6,3 +6,4 @@
 // Improve token minting flow efficiency
 // Optimize multi-chain interaction
 // Enhance contract event handling
+// Refactor staking logic
