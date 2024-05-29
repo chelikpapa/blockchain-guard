@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Refactor staking logic
 // Add support for yield farming rewards
+// Refactor governance token logic
