@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Fix ERC-20 token interface bugs
 // Refactor staking logic
+// Optimize token minting flow
