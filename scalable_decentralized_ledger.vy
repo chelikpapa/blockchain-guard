@@ -3,3 +3,4 @@
 // Implement reward distribution feature
 // Fix issues in token transfer logic
 // Integrate with multi-token standards
+// Refactor reward pooling algorithm
