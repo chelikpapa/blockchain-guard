@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Enhance smart contract upgradeability
 // Implement delegation pattern
+// Improve contract interaction via APIs
