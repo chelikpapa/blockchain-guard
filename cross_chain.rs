@@ -3,3 +3,4 @@
 // Improve cross-chain asset management
 // Improve token burning mechanism
 // Add non-fungible token (NFT) support
+// Implement delegation pattern
