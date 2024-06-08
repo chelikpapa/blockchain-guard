@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Implement delegation pattern
 // Fix overflow bug in token calculation
+// Improve staking logic for better rewards
