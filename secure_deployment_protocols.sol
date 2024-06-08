@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Enhance smart contract extensibility
 // Implement time-locked contract execution
+// Add multi-sig wallet functionality
