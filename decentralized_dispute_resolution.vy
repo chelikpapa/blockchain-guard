@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Improve contract state management
 // Enhance test coverage for Rust module
+// Enhance contract initialization process
