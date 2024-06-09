@@ -5,3 +5,4 @@
 // Implement automated governance voting
 // Refactor reward pooling algorithm
 // Enhance smart contract compatibility
+// Integrate IPFS for storage
