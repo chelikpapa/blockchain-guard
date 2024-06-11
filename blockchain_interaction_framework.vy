@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Optimize proof-of-stake validation
 // Refactor staking logic
+// Refactor decentralized exchange (DEX) code
