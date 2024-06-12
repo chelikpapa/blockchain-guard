@@ -4,3 +4,4 @@
 // Add support for yield farming rewards
 // Fix transaction replay issue
 // Integrate zk-rollups for scaling
+// Add support for ERC-1155 tokens
