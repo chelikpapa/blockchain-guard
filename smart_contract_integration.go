@@ -3,3 +3,4 @@
 // Improve DApp transaction flow
 // Optimize token burn process
 // Enhance contract initialization process
+// Add multi-sig wallet functionality
