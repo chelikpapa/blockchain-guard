@@ -7,3 +7,4 @@
 // Fix issue in ERC-20 token transfers
 // Update dependencies for Vyper contract
 // Refactor wallet interaction logic
+// Add new RPC endpoint
