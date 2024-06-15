@@ -2,3 +2,4 @@
 // Fix ERC-1155 contract interactions
 // Add unit tests for staking module
 // Enhance contract event handling
+// Add fallback mechanism in Solidity contract
