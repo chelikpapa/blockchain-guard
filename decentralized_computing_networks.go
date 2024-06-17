@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Fix bugs in decentralized exchange routing
 // Improve gas estimation for transactions
+// Improve scalability for smart contract platforms
