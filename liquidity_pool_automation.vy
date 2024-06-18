@@ -2,3 +2,4 @@
 // Improve contract execution performance
 // Fix bugs in decentralized exchange routing
 // Add support for zk-SNARKs in smart contracts
+// Refactor governance proposal logic
