@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Fix deserialization bug in Haskell code
 // Add native support for staking mechanisms
+// Refactor decentralized governance structure
