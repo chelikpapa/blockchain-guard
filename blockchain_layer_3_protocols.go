@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Add multi-chain governance support
 // Fix edge case in unstaking logic
+// Optimize token burn process
