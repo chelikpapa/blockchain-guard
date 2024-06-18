@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Fix issues with token transfer confirmations
 // Integrate privacy-preserving mechanisms
+// Integrate with decentralized identity providers
