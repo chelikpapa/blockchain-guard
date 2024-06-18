@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Implement a new contract event system
 // Refactor decentralized exchange (DEX) code
+// Improve decentralized oracle protocols
