@@ -2,3 +2,4 @@
 // Enhance contract modularity for future upgrades
 // Refactor token distribution mechanism
 // Fix transaction replay issue
+// Reduce gas cost in minting logic
