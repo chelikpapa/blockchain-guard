@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Optimize multi-chain interaction
 // Fix vulnerabilities in staking contracts
+// Improve staking pool reward management
