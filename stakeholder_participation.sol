@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Fix issue in token vesting logic
 // Fix errors in contract interaction with wallets
+// Add support for zk-SNARKs in smart contracts
