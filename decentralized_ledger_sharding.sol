@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor decentralized exchange (DEX) code
 // Improve staking pool reward management
+// Refactor governance token logic
