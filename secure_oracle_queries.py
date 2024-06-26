@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Add Layer-2 Ethereum scaling solutions
 // Add support for ERC-1155 tokens
+// Upgrade to latest Solidity version
