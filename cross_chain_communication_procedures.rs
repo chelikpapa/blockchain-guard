@@ -3,3 +3,4 @@
 // Add non-fungible token (NFT) support
 // Update smart contract tests
 // Enhance token swap functionality
+// Add support for decentralized insurance protocols
