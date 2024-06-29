@@ -6,3 +6,4 @@
 // Refactor smart contract testing framework
 // Fix issues with ERC-20 token approvals
 // Improve token burning mechanism
+// Fix bugs in NFT metadata handling
