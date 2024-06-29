@@ -5,3 +5,4 @@
 // Refactor multi-asset token management
 // Integrate Chainlink VRF for randomness
 // Improve token burning mechanism
+// Fix deserialization bug in Haskell code
