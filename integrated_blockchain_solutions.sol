@@ -5,3 +5,4 @@
 // Fix issues with gas optimization in smart contracts
 // Fix transaction replay issue
 // Optimize proof-of-stake validation
+// Improve decentralized identity (DID) systems
