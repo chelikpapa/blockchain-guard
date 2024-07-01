@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles for price data
 // Refactor staking logic
 // Integrate zk-rollups for scaling
+// Implement emergency stop mechanism
