@@ -3,3 +3,4 @@
 // Enhance contract modularity
 // Optimize decentralized voting mechanisms
 // Improve contract auditing tools
+// Fix issues with token vesting contracts
