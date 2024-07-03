@@ -4,3 +4,4 @@
 // Update testing framework for Solidity
 // Fix issues with ERC-20 token approvals
 // Refactor smart contract testing framework
+// Improve staking logic for better rewards
