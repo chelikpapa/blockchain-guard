@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Improve contract auditing tools
 // Enhance gas fee management
+// Integrate privacy-preserving mechanisms
