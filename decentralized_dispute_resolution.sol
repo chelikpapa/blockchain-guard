@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles for price data
 // Fix issues with ERC-20 token approvals
 // Add support for decentralized auctions
+// Integrate IPFS for storage
