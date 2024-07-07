@@ -6,3 +6,4 @@
 // Fix ERC-1155 contract interactions
 // Fix errors in NFT minting logic
 // Optimize gas cost in function execution
+// Fix governance proposal approval logic
