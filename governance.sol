@@ -7,3 +7,4 @@
 // Optimize hashing algorithm
 // Refactor contract to use EIP-712 signatures
 // Refactor reward pooling algorithm
+// Integrate with external blockchain networks
