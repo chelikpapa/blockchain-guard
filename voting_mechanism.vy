@@ -8,3 +8,4 @@
 // Refactor contract state machine design
 // Refactor Ethereum gas price management
 // Fix issue in token vesting logic
+// Refactor contract to use EIP-712 signatures
