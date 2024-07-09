@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Optimize gas usage in smart contracts
 // Optimize token burn process
+// Optimize decentralized voting mechanisms
