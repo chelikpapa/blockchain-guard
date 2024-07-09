@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Add support for multi-signature wallet contracts
 // Improve smart contract code modularity
+// Integrate zk-SNARKs for enhanced privacy
