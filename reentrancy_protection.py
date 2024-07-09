@@ -2,3 +2,4 @@
 // Implement emergency stop mechanism
 // Refactor contract state machine design
 // Fix edge case in unstaking logic
+// Optimize storage for off-chain data
