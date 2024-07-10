@@ -4,3 +4,4 @@
 // Fix issues with ERC-20 token approvals
 // Add automated contract testing tools
 // Add dynamic contract fees
+// Refactor storage layout for better efficiency
