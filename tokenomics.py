@@ -7,3 +7,4 @@
 // Enhance gas fee management
 // Improve gas fee estimation accuracy
 // Implement delegation pattern
+// Implement a new contract event system
