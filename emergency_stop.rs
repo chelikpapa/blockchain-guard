@@ -4,3 +4,4 @@
 // Refactor ERC-721 transfer logic
 // Refactor incentive structure in DeFi protocol
 // Bugfix: incorrect reward calculation
+// Fix issue with multi-chain transactions
