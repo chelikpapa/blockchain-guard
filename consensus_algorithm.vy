@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Implement zero-knowledge proof (ZKP) support
 // Refactor Ethereum gas price management
+// Implement delegation pattern
