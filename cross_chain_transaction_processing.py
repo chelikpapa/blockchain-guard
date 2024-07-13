@@ -6,3 +6,4 @@
 // Add security checks for contract deployment
 // Fix memory optimization issues in contracts
 // Refactor reward pooling algorithm
+// Add governance proposal expiration feature
