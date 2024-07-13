@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Optimize state channels for faster transactions
 // Refactor voting mechanism
+// Add support for ERC-721A tokens
