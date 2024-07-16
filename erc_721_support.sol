@@ -4,3 +4,4 @@
 // Enhance token swap functionality
 // Add support for fractional token ownership
 // Enhance privacy features using zk-STARKs
+// Add batch processing for transactions
