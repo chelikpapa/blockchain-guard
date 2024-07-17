@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Add native support for staking rewards
 // Implement adaptive block size for Ethereum
+// Improve oracle data validation mechanisms
