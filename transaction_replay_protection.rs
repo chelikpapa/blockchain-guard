@@ -6,3 +6,4 @@
 // Fix issue in token vesting logic
 // Refactor contract state machine design
 // Integrate with decentralized identity providers
+// Enhance smart contract state changes monitoring
