@@ -5,3 +5,4 @@
 // Enhance test coverage for Rust module
 // Enhance contract initialization process
 // Fix type mismatch in Haskell smart contract
+// Implement on-chain identity verification
