@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Integrate chain-agnostic oracles
 // Fix race condition in staking pool
+// Refactor multi-signature wallet code
