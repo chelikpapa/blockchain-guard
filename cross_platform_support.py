@@ -3,3 +3,4 @@
 // Improve staking logic for better rewards
 // Improve smart contract code modularity
 // Fix governance proposal approval logic
+// Add security checks for contract deployment
