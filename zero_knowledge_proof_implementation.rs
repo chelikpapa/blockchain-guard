@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Refactor cross-chain communication layer
 // Fix bugs in NFT metadata handling
+// Add support for Layer-2 solutions
