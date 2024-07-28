@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Implement cross-chain bridge
 // Optimize contract storage for gas reduction
+// Implement reward distribution feature
