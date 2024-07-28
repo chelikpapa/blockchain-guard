@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Implement reward distribution feature
 // Refactor staking logic
+// Optimize contract storage for gas reduction
