@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Improve smart contract code modularity
 // Integrate Chainlink oracles
+// Add multi-sig wallet functionality
