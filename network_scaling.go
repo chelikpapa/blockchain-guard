@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Enhance privacy features using zk-STARKs
 // Integrate with external DeFi protocols
+// Add support for ERC-721A tokens
