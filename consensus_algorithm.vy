@@ -5,3 +5,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Refactor Ethereum gas price management
 // Implement delegation pattern
+// Add support for ERC-1155 tokens
