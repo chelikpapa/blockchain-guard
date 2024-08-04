@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate multi-chain liquidity pools
+// Fix type mismatch in Haskell smart contract
