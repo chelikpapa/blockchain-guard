@@ -4,3 +4,4 @@
 // Optimize contract storage for gas reduction
 // Refactor governance token logic
 // Enhance test coverage for Rust module
+// Refactor incentive structure in DeFi protocol
