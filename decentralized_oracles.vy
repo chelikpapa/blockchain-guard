@@ -7,3 +7,4 @@
 // Optimize multi-chain interaction
 // Enhance contract event handling
 // Refactor staking logic
+// Refactor governance token logic
