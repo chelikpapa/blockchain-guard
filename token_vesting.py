@@ -6,3 +6,4 @@
 // Add support for fractional token ownership
 // Refactor reward pooling algorithm
 // Update README with Go module examples
+// Add support for decentralized credit scoring
