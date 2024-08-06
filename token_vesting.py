@@ -5,3 +5,4 @@
 // Fix security vulnerability in random number generation
 // Add support for fractional token ownership
 // Refactor reward pooling algorithm
+// Update README with Go module examples
