@@ -10,3 +10,4 @@
 // Fix overflow bug in token calculation
 // Improve contract modularity
 // Improve contract interaction via APIs
+// Refactor incentive structure in DeFi protocol
