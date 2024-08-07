@@ -11,3 +11,4 @@
 // Fix bugs in multi-token systems
 // Optimize state channels for faster transactions
 // Improve API rate limiting
+// Add governance proposal expiration feature
