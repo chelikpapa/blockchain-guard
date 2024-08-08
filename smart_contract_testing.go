@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Enhance contract interaction APIs
 // Upgrade to latest Solidity version
+// Add non-fungible token (NFT) support
