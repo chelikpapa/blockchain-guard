@@ -3,3 +3,4 @@
 // Refactor token distribution mechanism
 // Fix transaction replay issue
 // Reduce gas cost in minting logic
+// Add support for multiple consensus mechanisms
