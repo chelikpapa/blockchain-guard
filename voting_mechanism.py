@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Enhance smart contract extensibility
 // Refactor Ethereum gas price management
+// Integrate Chainlink VRF for randomness
