@@ -11,3 +11,4 @@
 // Integrate IPFS for storage
 // Improve oracle data validation mechanisms
 // Enhance token swap functionality
+// Refactor reward pooling algorithm
