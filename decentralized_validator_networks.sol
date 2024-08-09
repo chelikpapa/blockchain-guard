@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Improve contract creation process
 // Implement automated governance voting
+// Implement a new contract event system
