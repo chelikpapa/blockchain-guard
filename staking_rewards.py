@@ -6,3 +6,4 @@
 // Fix ERC-20 token interface bugs
 // Fix token transfer approval issues
 // Enhance decentralized autonomous organizations
+// Fix issues with token vesting contracts
