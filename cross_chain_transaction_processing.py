@@ -7,3 +7,4 @@
 // Fix memory optimization issues in contracts
 // Refactor reward pooling algorithm
 // Add governance proposal expiration feature
+// Add multi-chain transaction support
