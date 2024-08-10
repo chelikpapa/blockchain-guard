@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Integrate Chainlink oracles
 // Implement dynamic fee adjustment
+// Integrate Chainlink oracles for price data
