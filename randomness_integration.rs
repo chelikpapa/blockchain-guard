@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Improve contract state management
 // Implement delegation pattern
+// Implement adaptive block size for Ethereum
