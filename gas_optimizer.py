@@ -7,3 +7,4 @@
 // Improve staking logic for better rewards
 // Improve contract modularity
 // Add support for yield farming rewards
+// Improve API rate limiting
