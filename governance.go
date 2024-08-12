@@ -6,3 +6,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Implement cross-chain bridge
 // Enhance smart contract compatibility
+// Integrate privacy-enhancing smart contracts
