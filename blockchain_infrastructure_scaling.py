@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Implement on-chain fee adjustment mechanisms
 // Refactor multi-asset token management
+// Fix bugs in NFT metadata handling
