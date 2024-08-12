@@ -5,3 +5,4 @@
 // Improve cross-chain asset management
 // Implement performance optimizations for DeFi
 // Fix ERC-20 token interface bugs
+// Fix vulnerabilities in staking contracts
