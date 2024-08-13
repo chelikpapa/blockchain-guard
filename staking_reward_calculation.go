@@ -5,3 +5,4 @@
 // Optimize state channels for faster transactions
 // Refactor voting mechanism
 // Add support for ERC-721A tokens
+// Add support for zk-SNARKs in smart contracts
