@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Fix security vulnerability in random number generation
 // Fix security vulnerability in random number generation
+// Integrate zk-rollups for scaling
