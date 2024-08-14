@@ -7,3 +7,4 @@
 // Refactor multi-asset token management
 // Enhance contract upgrade mechanism
 // Improve on-chain governance systems
+// Improve decentralized exchange (DEX) liquidity
