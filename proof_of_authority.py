@@ -6,3 +6,4 @@
 // Enhance contract modularity for future upgrades
 // Integrate IPFS for storage
 // Enhance contract state verification
+// Add support for multi-signature wallet contracts
