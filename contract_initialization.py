@@ -7,3 +7,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance decentralized autonomous governance
 // Update README with Go module examples
+// Optimize token burn process
