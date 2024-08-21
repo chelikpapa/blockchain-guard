@@ -4,3 +4,4 @@
 // Add support for Layer-2 solutions
 // Fix interoperability issues with other blockchains
 // Improve contract execution speed
+// Fix errors in contract interaction with wallets
