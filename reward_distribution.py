@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Improve security for token minting contracts
 // Implement automatic transaction retries
+// Fix ERC-1155 contract interactions
