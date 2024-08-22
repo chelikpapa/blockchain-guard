@@ -7,3 +7,4 @@
 // Add support for decentralized file storage
 // Optimize gas usage for contract deployment
 // Fix issues with token vesting contracts
+// Integrate with decentralized prediction markets
