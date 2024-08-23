@@ -7,3 +7,4 @@
 // Implement dynamic fee adjustment
 // Refactor multi-signature wallet code
 // Fix memory optimization issues in contracts
+// Add new feature: on-chain governance
