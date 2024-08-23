@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Optimize token burn process
 // Fix issues with token vesting contracts
+// Add automated contract testing tools
