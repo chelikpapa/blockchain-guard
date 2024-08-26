@@ -7,3 +7,4 @@
 // Improve contract verification speed
 // Fix errors in NFT minting logic
 // Refactor cross-chain communication layer
+// Integrate zk-rollups for scaling
