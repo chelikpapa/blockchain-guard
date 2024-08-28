@@ -3,3 +3,4 @@
 // Integrate privacy-enhancing smart contracts
 // Improve transaction batching efficiency
 // Fix compatibility with MetaMask
+// Fix memory leak in Rust smart contract
