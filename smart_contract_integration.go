@@ -7,3 +7,4 @@
 // Enhance smart contract compatibility
 // Integrate with external DeFi protocols
 // Improve gas fee estimation accuracy
+// Improve gas estimation for transactions
