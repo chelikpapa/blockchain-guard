@@ -6,3 +6,4 @@
 // Integrate decentralized anonymous identity systems
 // Fix issues with gas optimization in smart contracts
 // Optimize gas usage in contract execution
+// Integrate zk-rollups for scaling
