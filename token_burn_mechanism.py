@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Add automated smart contract testing
 // Integrate staking rewards automation
+// Bugfix: incorrect reward calculation
