@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add support for delegation in governance
 // Enhance API rate limiting for smart contracts
+// Add native support for staking mechanisms
