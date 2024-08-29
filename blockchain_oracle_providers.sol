@@ -4,3 +4,4 @@
 // Add dynamic contract fees
 // Add dynamic contract fees
 // Enhance contract upgrade mechanism
+// Fix race condition in staking pool
