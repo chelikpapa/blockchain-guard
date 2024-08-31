@@ -10,3 +10,4 @@
 // Add support for ERC-1155 tokens
 // Add governance proposal expiration feature
 // Add support for decentralized file storage
+// Implement contract function batching
