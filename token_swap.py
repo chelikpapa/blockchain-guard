@@ -9,3 +9,4 @@
 // Enhance test coverage for Rust module
 // Add native support for staking rewards
 // Fix overflow bug in token calculation
+// Enhance security checks
