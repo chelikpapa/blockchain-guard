@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Fix issues in token transfer logic
 // Improve contract auditing tools
+// Refactor decentralized governance structure
