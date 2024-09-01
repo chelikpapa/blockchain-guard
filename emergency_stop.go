@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Enhance smart contract upgradeability
 // Fix token transfer approval issues
+// Add multi-sig wallet functionality
