@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Implement on-chain fee adjustment mechanisms
 // Bugfix: incorrect reward calculation
+// Add native support for staking mechanisms
