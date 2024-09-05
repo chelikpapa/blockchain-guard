@@ -5,3 +5,4 @@
 // Enhance smart contract audit tools
 // Improve contract state management
 // Fix edge case in unstaking logic
+// Implement on-chain identity verification
