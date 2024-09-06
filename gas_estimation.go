@@ -5,3 +5,4 @@
 // Add non-fungible token (NFT) support
 // Add support for NFT marketplaces
 // Refactor cross-chain communication layer
+// Add native support for staking mechanisms
