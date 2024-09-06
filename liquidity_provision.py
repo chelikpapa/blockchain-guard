@@ -4,3 +4,4 @@
 // Add multi-chain governance support
 // Add dynamic contract fees
 // Fix errors in contract interaction with wallets
+// Add dynamic contract fees
