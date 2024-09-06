@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Fix errors in NFT minting logic
 // Optimize state channels for faster transactions
+// Enhance contract event handling
