@@ -3,3 +3,4 @@
 // Integrate privacy-enhancing smart contracts
 // Refactor oracle interaction logic
 // Fix edge case in unstaking logic
+// Improve contract interaction via APIs
