@@ -8,3 +8,4 @@
 // Fix issues with ERC-20 token approvals
 // Implement delegation pattern
 // Implement automated governance voting
+// Optimize hashing algorithm
