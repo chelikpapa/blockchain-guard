@@ -4,3 +4,4 @@
 // Improve contract verification speed
 // Fix issues with token transfer confirmations
 // Add native support for staking mechanisms
+// Fix bugs in NFT metadata handling
