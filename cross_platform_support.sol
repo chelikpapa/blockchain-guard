@@ -4,3 +4,4 @@
 // Enhance logging for better debugging
 // Implement contract function batching
 // Integrate IPFS for storage
+// Implement cross-chain bridge
