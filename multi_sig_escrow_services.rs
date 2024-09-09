@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Fix edge case in unstaking logic
 // Improve contract interaction via APIs
+// Refactor storage layout for better efficiency
