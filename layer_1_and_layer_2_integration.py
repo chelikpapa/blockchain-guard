@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix contract reentrancy issues
 // Implement emergency stop mechanism
+// Add new RPC endpoint
