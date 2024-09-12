@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Enhance security checks
 // Enhance governance contract flexibility
+// Fix race condition in staking pool
