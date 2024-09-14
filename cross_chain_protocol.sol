@@ -2,3 +2,4 @@
 // Refactor multi-signature wallet code
 // Improve security in decentralized applications
 // Enhance cryptographic primitives in contracts
+// Bugfix: incorrect reward calculation
