@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Refactor staking logic
 // Enhance gas fee management
+// Enhance contract initialization process
