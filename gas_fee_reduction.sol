@@ -6,3 +6,4 @@
 // Fix errors in contract interaction with wallets
 // Integrate flash loan functionality
 // Improve token burning mechanism
+// Refactor voting mechanism
