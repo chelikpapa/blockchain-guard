@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Improve contract creation process
 // Optimize gas usage for contract deployment
+// Improve security for token minting contracts
