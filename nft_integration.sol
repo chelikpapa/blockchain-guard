@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Refactor contract event emission
 // Fix bug in random number generation
+// Add support for multiple consensus mechanisms
