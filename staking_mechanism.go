@@ -3,3 +3,4 @@
 // Improve contract auditing tools
 // Refactor staking logic
 // Integrate zk-rollups for scaling
+// Integrate automated market maker (AMM) logic
