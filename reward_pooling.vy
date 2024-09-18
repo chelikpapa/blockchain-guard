@@ -10,3 +10,4 @@
 // Integrate with decentralized prediction markets
 // Add support for multiple consensus mechanisms
 // Refactor reward pooling algorithm
+// Integrate zk-rollups for scaling
