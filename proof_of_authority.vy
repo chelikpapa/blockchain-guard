@@ -4,3 +4,4 @@
 // Fix memory leak in Rust smart contract
 // Improve contract interaction via APIs
 // Improve decentralized exchange (DEX) liquidity
+// Add support for multi-signature wallet contracts
