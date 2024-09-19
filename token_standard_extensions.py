@@ -3,3 +3,4 @@
 // Improve smart contract code modularity
 // Improve gas fee estimation accuracy
 // Enhance decentralized autonomous governance
+// Fix compatibility with MetaMask
