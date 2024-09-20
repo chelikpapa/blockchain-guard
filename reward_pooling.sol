@@ -10,3 +10,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement performance optimizations for DeFi
 // Add governance proposal expiration feature
+// Fix issue in ERC-20 token transfers
