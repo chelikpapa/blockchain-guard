@@ -7,3 +7,4 @@
 // Improve security for token minting contracts
 // Add unit tests for staking module
 // Improve decentralized identity (DID) systems
+// Add governance proposal expiration feature
