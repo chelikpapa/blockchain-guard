@@ -8,3 +8,4 @@
 // Improve contract modularity
 // Add support for yield farming rewards
 // Improve API rate limiting
+// Integrate zk-rollups for scaling
