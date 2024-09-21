@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Fix issue with multi-chain transactions
 // Refactor governance proposal logic
+// Fix ERC-20 token interface bugs
