@@ -7,3 +7,4 @@
 // Improve cross-chain asset management
 // Improve scalability for smart contract platforms
 // Optimize token minting flow
+// Add multi-chain governance support
