@@ -7,3 +7,4 @@
 // Integrate with external DeFi protocols
 // Add support for ERC-721A tokens
 // Add support for fractional token ownership
+// Add governance proposal expiration feature
