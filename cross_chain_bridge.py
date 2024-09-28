@@ -8,3 +8,4 @@
 // Fix bugs in decentralized exchange routing
 // Improve token burning mechanism
 // Fix security vulnerability in random number generation
+// Integrate with Ethereum Layer-2 solutions
