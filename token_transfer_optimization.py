@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Integrate zk-rollups for scaling
 // Fix issues with ERC-20 token approvals
+// Improve API rate limiting
