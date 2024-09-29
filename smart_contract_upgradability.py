@@ -12,3 +12,4 @@
 // Add support for decentralized file storage
 // Implement contract function batching
 // Optimize contract storage for gas reduction
+// Add support for ERC-1155 tokens
