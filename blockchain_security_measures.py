@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Add new feature: on-chain governance
 // Improve error handling in transaction flow
+// Refactor smart contract testing framework
