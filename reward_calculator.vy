@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Refactor contract state machine design
 // Enhance cryptographic primitives in contracts
+// Integrate IPFS for storage
