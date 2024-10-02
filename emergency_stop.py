@@ -6,3 +6,4 @@
 // Enhance security checks
 // Enhance governance contract flexibility
 // Fix race condition in staking pool
+// Fix issues with token transfer confirmations
