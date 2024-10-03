@@ -6,3 +6,4 @@
 // Improve contract creation process
 // Optimize gas usage for contract deployment
 // Improve security for token minting contracts
+// Optimize storage for off-chain data
