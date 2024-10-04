@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Enhance contract modularity
 // Enhance smart contract upgradeability
+// Improve staking logic for better rewards
