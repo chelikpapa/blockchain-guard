@@ -2,3 +2,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Optimize contract upgrade process
 // Optimize proof-of-stake validation
+// Improve staking logic for better rewards
