@@ -9,3 +9,4 @@
 // Refactor decentralized storage system
 // Improve token minting flow efficiency
 // Improve decentralized identity (DID) systems
+// Integrate Chainlink oracles
