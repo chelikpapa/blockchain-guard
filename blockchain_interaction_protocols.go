@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Fix deserialization bug in Haskell code
 // Improve DApp transaction flow
+// Integrate with external DeFi protocols
