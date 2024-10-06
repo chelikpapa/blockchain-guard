@@ -7,3 +7,4 @@
 // Improve cross-chain asset management
 // Add new RPC endpoint
 // Refactor contract event emission
+// Integrate IPFS for storage
