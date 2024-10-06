@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve multi-chain contract deployment
 // Implement liquidity pool staking mechanism
+// Integrate multi-chain liquidity pools
