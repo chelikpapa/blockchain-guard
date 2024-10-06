@@ -9,3 +9,4 @@
 // Improve security for token minting contracts
 // Optimize oracle data fetching mechanism
 // Fix transaction replay issue
+// Add slashing mechanism for malicious actors
