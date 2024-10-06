@@ -4,3 +4,4 @@
 // Integrate with multi-token standards
 // Integrate privacy-enhancing smart contracts
 // Add native support for staking rewards
+// Improve error handling in transaction flow
