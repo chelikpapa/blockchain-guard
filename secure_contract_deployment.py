@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Enhance test coverage for Rust module
 // Add support for fractional token ownership
+// Add support for decentralized credit scoring
