@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Fix Oracle communication delay issues
 // Add governance proposal expiration feature
+// Refactor contract to use EIP-712 signatures
