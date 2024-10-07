@@ -8,3 +8,4 @@
 // Optimize decentralized voting mechanisms
 // Fix issue with multi-chain transactions
 // Optimize token minting flow
+// Add multi-chain governance support
