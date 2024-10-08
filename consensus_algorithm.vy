@@ -6,3 +6,4 @@
 // Refactor Ethereum gas price management
 // Implement delegation pattern
 // Add support for ERC-1155 tokens
+// Refactor token economics model
