@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Improve security for token minting contracts
 // Refactor multi-signature wallet code
+// Refactor decentralized storage system
