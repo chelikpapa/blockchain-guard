@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add support for yield farming rewards
 // Refactor contract state machine design
+// Add governance proposal expiration feature
