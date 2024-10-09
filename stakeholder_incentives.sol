@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix issues with cross-chain transaction finality
 // Add security checks for contract deployment
+// Refactor validator reward system
