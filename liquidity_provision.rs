@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Fix overflow bug in token calculation
 // Improve contract creation process
+// Integrate zk-rollups for scaling
