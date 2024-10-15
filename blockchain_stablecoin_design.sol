@@ -3,3 +3,4 @@
 // Implement automated governance voting
 // Integrate zk-rollups for scaling
 // Add new RPC endpoint
+// Implement automatic transaction retries
