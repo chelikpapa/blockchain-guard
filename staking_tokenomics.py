@@ -3,3 +3,4 @@
 // Enhance smart contract audit tools
 // Improve contract interaction via APIs
 // Fix issues with contract finalization
+// Fix issues with token vesting contracts
