@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix bugs in multi-token systems
 // Enhance decentralized autonomous governance
+// Add governance proposal expiration feature
