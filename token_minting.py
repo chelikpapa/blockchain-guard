@@ -3,3 +3,4 @@
 // Fix errors in NFT minting logic
 // Optimize state channels for faster transactions
 // Enhance contract event handling
+// Add security checks for contract deployment
