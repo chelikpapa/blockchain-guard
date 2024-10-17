@@ -6,3 +6,4 @@
 // Improve contract execution speed
 // Fix errors in contract interaction with wallets
 // Enhance smart contract compatibility
+// Enhance privacy features using zk-STARKs
