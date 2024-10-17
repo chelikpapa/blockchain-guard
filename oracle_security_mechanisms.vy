@@ -4,3 +4,4 @@
 // Refactor smart contract testing framework
 // Improve contract state management
 // Fix memory optimization issues in contracts
+// Fix issues with token vesting contracts
