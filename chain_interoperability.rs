@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Improve decentralized lending contract flexibility
 // Fix deserialization bug in Haskell code
+// Enhance smart contract state changes monitoring
