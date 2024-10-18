@@ -9,3 +9,4 @@
 // Implement delegation pattern
 // Implement automated governance voting
 // Optimize hashing algorithm
+// Add multi-chain governance support
