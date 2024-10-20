@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Fix issues with contract finalization
 // Fix issues with token vesting contracts
+// Refactor wallet interaction logic
