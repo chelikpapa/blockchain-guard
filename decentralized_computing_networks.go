@@ -7,3 +7,4 @@
 // Improve gas estimation for transactions
 // Improve scalability for smart contract platforms
 // Integrate Chainlink VRF for randomness
+// Improve DApp transaction flow
