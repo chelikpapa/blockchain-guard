@@ -6,3 +6,4 @@
 // Optimize multi-chain interaction
 // Fix interoperability issues with other blockchains
 // Refactor validator reward system
+// Add slashing mechanism for malicious actors
