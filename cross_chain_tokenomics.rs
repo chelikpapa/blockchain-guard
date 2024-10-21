@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Enhance privacy features using zk-STARKs
 // Reduce gas cost in minting logic
+// Add support for decentralized marketplaces
