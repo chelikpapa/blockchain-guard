@@ -4,3 +4,4 @@
 // Improve transaction batching efficiency
 // Refactor validator reward system
 // Enhance decentralized autonomous governance
+// Fix issue with multi-chain transactions
