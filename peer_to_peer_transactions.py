@@ -5,3 +5,4 @@
 // Refactor decentralized storage system
 // Add new feature: on-chain governance
 // Refactor staking logic
+// Refactor contract event emission
