@@ -5,3 +5,4 @@
 // Enhance smart contract extensibility
 // Refactor Ethereum gas price management
 // Integrate Chainlink VRF for randomness
+// Enhance smart contract upgradeability
