@@ -4,3 +4,4 @@
 // Improve decentralized identity (DID) systems
 // Optimize gas usage in smart contracts
 // Enhance smart contract upgradeability
+// Integrate IPFS for storage
