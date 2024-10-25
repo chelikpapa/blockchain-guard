@@ -8,3 +8,4 @@
 // Refactor voting mechanism
 // Improve token burning mechanism
 // Add support for multi-signature wallet contracts
+// Fix race condition in staking pool
