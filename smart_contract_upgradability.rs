@@ -6,3 +6,4 @@
 // Add support for delegation in governance
 // Integrate IPFS for storage
 // Implement price feed oracles for tokens
+// Refactor Ethereum gas price management
