@@ -9,3 +9,4 @@
 // Implement liquidity pool staking mechanism
 // Fix oracle data delays in decentralized apps
 // Add multi-chain governance support
+// Add support for Layer-2 solutions
