@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Add support for fractional token ownership
 // Add support for yield farming rewards
+// Add governance proposal expiration feature
