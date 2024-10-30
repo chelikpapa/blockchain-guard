@@ -3,3 +3,4 @@
 // Improve contract interaction via APIs
 // Improve oracle data validation mechanisms
 // Refactor incentive structure in DeFi protocol
+// Implement delegation pattern
