@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Fix issues in multi-token smart contracts
 // Optimize state channels for faster transactions
+// Implement delegation pattern
