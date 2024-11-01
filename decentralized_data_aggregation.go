@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Improve contract execution performance
 // Improve contract verification speed
+// Optimize gas cost in function execution
