@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Bugfix: incorrect reward calculation
 // Fix bugs in multi-token systems
+// Fix data consistency issues in smart contracts
