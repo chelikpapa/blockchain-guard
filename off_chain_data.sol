@@ -8,3 +8,4 @@
 // Fix memory leak in Rust smart contract
 // Optimize Oracle-based data fetching
 // Optimize gas usage in smart contracts
+// Add support for Layer-2 solutions
