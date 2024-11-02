@@ -12,3 +12,4 @@
 // Improve contract interaction via APIs
 // Refactor incentive structure in DeFi protocol
 // Enhance privacy features using zk-STARKs
+// Add Layer-2 Ethereum scaling solutions
