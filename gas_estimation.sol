@@ -7,3 +7,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize token minting flow
 // Refactor reward pooling algorithm
+// Add support for zk-SNARKs in smart contracts
