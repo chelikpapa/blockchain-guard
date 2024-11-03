@@ -6,3 +6,4 @@
 // Implement emergency stop mechanism
 // Enhance smart contract upgradeability
 // Enhance governance contract flexibility
+// Reduce gas cost in minting logic
