@@ -7,3 +7,4 @@
 // Fix memory leak in Rust smart contract
 // Improve transaction batching efficiency
 // Refactor token economics model
+// Add support for yield farming rewards
