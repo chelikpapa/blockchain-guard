@@ -2,3 +2,4 @@
 // Optimize WASM compilation for Go contracts
 // Refactor validator reward system
 // Implement adaptive block size for Ethereum
+// Refactor staking logic
