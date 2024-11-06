@@ -9,3 +9,4 @@
 // Improve contract interaction via APIs
 // Refactor token distribution mechanism
 // Improve smart contract logging
+// Integrate with Ethereum Layer-2 solutions
