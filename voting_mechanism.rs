@@ -11,3 +11,4 @@
 // Enhance smart contract compatibility
 // Fix governance proposal approval logic
 // Enhance contract initialization process
+// Add multi-sig wallet functionality
