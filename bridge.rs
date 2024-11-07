@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Integrate zk-rollups for scaling
 // Enhance token swap functionality
+// Add non-fungible token (NFT) support
