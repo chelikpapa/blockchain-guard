@@ -5,3 +5,4 @@
 // Add native support for staking mechanisms
 // Refactor decentralized governance structure
 // Fix transaction replay issue
+// Optimize Oracle-based data fetching
