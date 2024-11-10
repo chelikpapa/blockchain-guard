@@ -9,3 +9,4 @@
 // Enhance contract initialization process
 // Fix issues with token vesting contracts
 // Optimize cross-chain communication
+// Fix race condition in staking pool
