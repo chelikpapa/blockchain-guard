@@ -7,3 +7,4 @@
 // Integrate Chainlink oracles for price data
 // Integrate with decentralized identity providers
 // Fix oracle data delays in decentralized apps
+// Add unit tests for staking module
