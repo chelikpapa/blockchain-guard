@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Fix vulnerability in decentralized finance protocols
 // Refactor contract event emission
+// Refactor staking logic
