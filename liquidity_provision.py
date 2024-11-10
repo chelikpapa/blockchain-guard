@@ -5,3 +5,4 @@
 // Add dynamic contract fees
 // Fix errors in contract interaction with wallets
 // Add dynamic contract fees
+// Reduce gas cost in minting logic
