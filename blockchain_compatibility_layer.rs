@@ -2,3 +2,4 @@
 // Add support for Layer-2 solutions
 // Improve multi-chain contract deployment
 // Refactor staking logic
+// Fix issues with token transfer confirmations
