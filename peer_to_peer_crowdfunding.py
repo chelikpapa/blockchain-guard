@@ -5,3 +5,4 @@
 // Integrate flash loan functionality
 // Enhance governance contract flexibility
 // Add new feature: on-chain governance
+// Add automated smart contract testing
