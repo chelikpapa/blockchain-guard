@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Fix overflow bug in token calculation
 // Improve scalability for smart contract platforms
+// Fix edge case in unstaking logic
