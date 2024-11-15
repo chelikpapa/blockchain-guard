@@ -8,3 +8,4 @@
 // Add unit tests for staking module
 // Improve decentralized identity (DID) systems
 // Add governance proposal expiration feature
+// Add native support for staking mechanisms
