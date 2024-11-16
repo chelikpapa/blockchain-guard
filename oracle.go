@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Optimize WASM compilation for Go contracts
 // Integrate chain-agnostic oracles
+// Add automated contract testing tools
