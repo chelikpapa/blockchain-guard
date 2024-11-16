@@ -8,3 +8,4 @@
 // Enhance contract event handling
 // Refactor staking logic
 // Refactor governance token logic
+// Fix issues in multi-token smart contracts
