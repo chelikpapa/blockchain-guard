@@ -5,3 +5,4 @@
 // Implement a new contract event system
 // Integrate decentralized prediction models
 // Refactor multi-asset token management
+// Add support for zk-SNARKs in smart contracts
