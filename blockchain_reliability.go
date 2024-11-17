@@ -2,3 +2,4 @@
 // Refactor Ethereum gas price management
 // Refactor oracle interaction logic
 // Improve staking and yield farming logic
+// Fix race condition in staking pool
