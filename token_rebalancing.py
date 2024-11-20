@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Refactor validator reward system
 // Optimize token withdrawal logic
+// Improve gas estimation for transactions
