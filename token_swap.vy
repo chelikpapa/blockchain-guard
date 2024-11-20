@@ -3,3 +3,4 @@
 // Fix issues with contract finalization
 // Optimize Oracle-based data fetching
 // Bugfix: incorrect reward calculation
+// Refactor storage layout for better efficiency
