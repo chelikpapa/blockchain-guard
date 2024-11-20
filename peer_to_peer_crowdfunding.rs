@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Improve staking logic for better rewards
 // Improve contract auditing tools
+// Fix ERC-721 contract issues with transfers
