@@ -6,3 +6,4 @@
 // Improve contract creation process
 // Implement adaptive block size for Ethereum
 // Fix interoperability issues with other blockchains
+// Add support for zk-SNARKs in smart contracts
