@@ -1,3 +1,4 @@
 // Fix issue in token vesting logic
 // Optimize hashing algorithm
 // Add support for DeFi lending protocols
+// Refactor decentralized governance structure
