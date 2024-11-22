@@ -4,3 +4,4 @@
 // Add support for batch transaction processing
 // Refactor smart contract testing framework
 // Fix vulnerabilities in staking contracts
+// Fix contract reentrancy issues
