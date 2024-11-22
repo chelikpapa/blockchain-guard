@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Add support for delegation in governance
 // Optimize cross-chain communication
+// Improve transaction batching efficiency
