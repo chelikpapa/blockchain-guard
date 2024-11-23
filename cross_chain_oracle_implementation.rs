@@ -3,3 +3,4 @@
 // Refactor token distribution mechanism
 // Add support for yield farming rewards
 // Integrate with Ethereum Layer-2 solutions
+// Refactor incentive structure in DeFi protocol
