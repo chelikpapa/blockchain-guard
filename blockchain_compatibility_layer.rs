@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Refactor staking logic
 // Fix issues with token transfer confirmations
+// Improve smart contract logging
