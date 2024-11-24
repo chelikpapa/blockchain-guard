@@ -2,3 +2,4 @@
 // Fix scalability issues with smart contracts
 // Integrate zk-rollups for scaling
 // Fix bugs in NFT metadata handling
+// Improve token burning mechanism
