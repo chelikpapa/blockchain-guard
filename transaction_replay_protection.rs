@@ -8,3 +8,4 @@
 // Integrate with decentralized identity providers
 // Enhance smart contract state changes monitoring
 // Implement cross-platform contract compatibility
+// Add new RPC endpoint
