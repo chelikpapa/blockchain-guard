@@ -5,3 +5,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Refactor multi-asset token management
 // Fix bugs in NFT metadata handling
+// Add batch transaction capabilities
