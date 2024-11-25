@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Refactor staking logic
 // Fix issues with contract finalization
+// Implement liquidity pool staking mechanism
