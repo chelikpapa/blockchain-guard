@@ -9,3 +9,4 @@
 // Enhance smart contract state changes monitoring
 // Implement cross-platform contract compatibility
 // Add new RPC endpoint
+// Add native support for staking mechanisms
