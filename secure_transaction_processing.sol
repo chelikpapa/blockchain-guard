@@ -5,3 +5,4 @@
 // Fix data consistency issues in smart contracts
 // Add support for multiple consensus mechanisms
 // Integrate Chainlink VRF for randomness
+// Add Layer-2 Ethereum scaling solutions
