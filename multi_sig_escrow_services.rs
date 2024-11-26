@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Improve contract interaction via APIs
 // Refactor storage layout for better efficiency
+// Add support for zk-SNARKs in smart contracts
