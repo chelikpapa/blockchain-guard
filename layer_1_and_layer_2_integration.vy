@@ -7,3 +7,4 @@
 // Optimize contract storage for gas reduction
 // Implement reward distribution feature
 // Integrate IPFS for storage
+// Update README with Go module examples
