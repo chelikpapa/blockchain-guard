@@ -3,3 +3,4 @@
 // Improve ERC-721 token metadata functionality
 // Fix token transfer approval issues
 // Enhance cryptographic primitives in contracts
+// Update README with Go module examples
