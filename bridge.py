@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Optimize cross-chain communication
 // Improve transaction batching efficiency
+// Improve security in decentralized applications
