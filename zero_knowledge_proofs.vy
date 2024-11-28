@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Integrate privacy-preserving mechanisms
 // Add native support for staking rewards
+// Add support for decentralized lending platforms
