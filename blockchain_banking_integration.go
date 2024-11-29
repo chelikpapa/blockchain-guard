@@ -4,3 +4,4 @@
 // Improve decentralized lending contract flexibility
 // Refactor decentralized storage system
 // Integrate with decentralized storage systems
+// Improve staking pool reward management
