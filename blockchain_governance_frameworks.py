@@ -2,3 +2,4 @@
 // Implement rewards escrow system
 // Improve error handling in transaction flow
 // Implement adaptive block size for Ethereum
+// Fix issue in token vesting logic
