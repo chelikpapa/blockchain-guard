@@ -4,3 +4,4 @@
 // Improve API rate limiting
 // Implement on-chain identity verification
 // Add support for ERC-1155 tokens
+// Add support for decentralized file storage
