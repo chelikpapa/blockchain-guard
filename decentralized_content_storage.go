@@ -7,3 +7,4 @@
 // Improve transaction batching efficiency
 // Integrate Chainlink oracles
 // Implement reward distribution feature
+// Integrate IPFS for storage
