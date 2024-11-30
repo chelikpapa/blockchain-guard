@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Integrate with decentralized prediction markets
 // Improve token burning mechanism
+// Refactor contract state machine design
