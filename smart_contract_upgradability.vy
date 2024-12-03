@@ -12,3 +12,4 @@
 // Add batch transaction capabilities
 // Integrate with external blockchain networks
 // Enhance privacy features using zk-STARKs
+// Refactor decentralized governance structure
