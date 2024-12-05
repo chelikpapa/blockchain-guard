@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Enhance developer documentation
 // Fix type mismatch in Haskell smart contract
+// Implement on-chain identity verification
