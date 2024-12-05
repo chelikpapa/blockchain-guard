@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Optimize contract storage for gas reduction
 // Enhance transaction monitoring
+// Fix contract reentrancy issues
