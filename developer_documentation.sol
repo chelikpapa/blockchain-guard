@@ -7,3 +7,4 @@
 // Enhance smart contract upgradeability
 // Refactor decentralized exchange (DEX) code
 // Improve decentralized exchange (DEX) liquidity
+// Refactor reward pooling algorithm
