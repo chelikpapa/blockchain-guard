@@ -4,3 +4,4 @@
 // Improve decentralized identity (DID) systems
 // Fix issues with token vesting contracts
 // Improve contract execution performance
+// Add support for ERC-721A tokens
