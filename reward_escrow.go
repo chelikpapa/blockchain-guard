@@ -9,3 +9,4 @@
 // Improve decentralized identity (DID) systems
 // Add governance proposal expiration feature
 // Add native support for staking mechanisms
+// Integrate privacy-enhancing smart contracts
