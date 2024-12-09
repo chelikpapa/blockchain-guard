@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Refactor smart contract testing framework
 // Enhance gas fee management
+// Add native support for staking mechanisms
