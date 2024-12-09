@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Add new RPC endpoint
 // Improve gas estimation for transactions
+// Integrate Chainlink VRF for randomness
