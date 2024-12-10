@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Refactor contract event emission
 // Implement reward distribution feature
+// Fix interoperability issues with other blockchains
