@@ -3,3 +3,4 @@
 // Add support for decentralized auctions
 // Add support for decentralized lending platforms
 // Add support for multiple consensus mechanisms
+// Add support for cross-chain bridges
