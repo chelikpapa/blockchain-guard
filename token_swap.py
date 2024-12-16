@@ -10,3 +10,4 @@
 // Add native support for staking rewards
 // Fix overflow bug in token calculation
 // Enhance security checks
+// Add support for cross-chain bridges
