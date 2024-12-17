@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Integrate with external DeFi protocols
 // Fix overflow bug in token calculation
+// Refactor smart contract testing framework
