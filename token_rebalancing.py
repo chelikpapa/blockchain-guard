@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Optimize token withdrawal logic
 // Improve gas estimation for transactions
+// Fix ERC-1155 contract interactions
