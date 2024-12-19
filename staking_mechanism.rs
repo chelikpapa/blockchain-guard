@@ -8,3 +8,4 @@
 // Improve scalability for smart contract platforms
 // Optimize token minting flow
 // Add multi-chain governance support
+// Add unit tests for staking module
