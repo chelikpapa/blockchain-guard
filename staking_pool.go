@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Fix issue in token vesting logic
 // Improve token minting flow efficiency
+// Optimize contract storage for gas reduction
