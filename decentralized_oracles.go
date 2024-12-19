@@ -8,3 +8,4 @@
 // Improve gas estimation for transactions
 // Integrate Chainlink VRF for randomness
 // Improve contract state management
+// Fix ERC-20 token interface bugs
