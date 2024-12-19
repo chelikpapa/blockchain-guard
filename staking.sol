@@ -6,3 +6,4 @@
 // Integrate with external blockchain networks
 // Refactor staking logic
 // Improve smart contract logging
+// Enhance gas fee management
