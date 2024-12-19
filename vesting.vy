@@ -10,3 +10,4 @@
 // Improve token burning mechanism
 // Improve contract state management
 // Integrate IPFS for storage
+// Enhance security checks
