@@ -4,3 +4,4 @@
 // Enhance developer documentation
 // Refactor multi-asset token management
 // Implement rewards escrow system
+// Fix governance proposal approval logic
