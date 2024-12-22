@@ -7,3 +7,4 @@
 // Fix oracle data delays in decentralized apps
 // Fix edge case in unstaking logic
 // Implement liquidity pool staking mechanism
+// Fix deserialization bug in Haskell code
