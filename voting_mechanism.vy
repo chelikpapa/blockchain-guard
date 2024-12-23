@@ -9,3 +9,4 @@
 // Refactor Ethereum gas price management
 // Fix issue in token vesting logic
 // Refactor contract to use EIP-712 signatures
+// Enhance contract upgrade process
