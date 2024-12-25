@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Refactor decentralized exchange (DEX) code
 // Refactor multi-asset token management
+// Add automated smart contract testing
