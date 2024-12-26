@@ -4,3 +4,4 @@
 // Integrate chain-agnostic oracles
 // Optimize gas usage in smart contracts
 // Optimize gas usage in smart contracts
+// Refactor governance token logic
