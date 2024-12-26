@@ -7,3 +7,4 @@
 // Enhance API rate limiting for smart contracts
 // Fix interoperability issues with other blockchains
 // Integrate zk-rollups for scaling
+// Enhance privacy features using zk-STARKs
