@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Optimize gas cost in function execution
 // Implement cross-chain bridge
+// Refactor reward pooling algorithm
