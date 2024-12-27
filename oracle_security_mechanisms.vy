@@ -5,3 +5,4 @@
 // Improve contract state management
 // Fix memory optimization issues in contracts
 // Fix issues with token vesting contracts
+// Implement on-chain identity verification
