@@ -5,3 +5,4 @@
 // Refactor token distribution mechanism
 // Improve on-chain governance systems
 // Enhance contract modularity
+// Add non-fungible token (NFT) support
