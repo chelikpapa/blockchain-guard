@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Implement rewards escrow system
 // Add support for zk-SNARKs in smart contracts
+// Refactor decentralized storage system
