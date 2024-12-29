@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Enhance smart contract compatibility
 // Optimize storage for off-chain data
+// Add support for cross-chain bridges
