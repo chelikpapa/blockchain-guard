@@ -18,3 +18,4 @@
 // Enhance API rate limiting for smart contracts
 // Implement delegation pattern
 // Enhance privacy features using zk-STARKs
+// Optimize gas usage in contract execution
