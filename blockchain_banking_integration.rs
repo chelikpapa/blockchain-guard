@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Improve scalability for smart contract platforms
 // Fix edge case in unstaking logic
+// Optimize gas usage in contract execution
