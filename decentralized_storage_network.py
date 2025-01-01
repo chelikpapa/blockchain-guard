@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles for price data
 // Refactor governance token logic
 // Implement cross-chain bridge
+// Refactor reward pooling algorithm
