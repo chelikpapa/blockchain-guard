@@ -12,3 +12,4 @@
 // Add batch transaction capabilities
 // Fix data consistency issues in smart contracts
 // Refactor contract state machine design
+// Refactor contract to use EIP-712 signatures
