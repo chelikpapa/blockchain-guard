@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Refactor validator reward system
 // Add support for decentralized insurance protocols
+// Fix overflow bug in token calculation
