@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Optimize state channels for faster transactions
 // Add governance proposal expiration feature
+// Enhance cryptographic primitives in contracts
