@@ -3,3 +3,4 @@
 // Enhance contract interaction APIs
 // Improve gas estimation for transactions
 // Integrate multi-chain liquidity pools
+// Fix governance proposal approval logic
