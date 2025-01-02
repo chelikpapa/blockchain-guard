@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Integrate with external blockchain networks
 // Refactor wallet interaction logic
+// Fix compatibility issues with major wallets
