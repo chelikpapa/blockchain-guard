@@ -10,3 +10,4 @@
 // Integrate with external blockchain networks
 // Improve contract state management
 // Implement delegation pattern
+// Add support for ERC-1155 tokens
