@@ -8,3 +8,4 @@
 // Fix errors in NFT minting logic
 // Refactor cross-chain communication layer
 // Integrate zk-rollups for scaling
+// Fix ERC-721 contract issues with transfers
