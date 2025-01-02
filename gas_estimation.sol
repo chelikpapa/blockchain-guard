@@ -8,3 +8,4 @@
 // Optimize token minting flow
 // Refactor reward pooling algorithm
 // Add support for zk-SNARKs in smart contracts
+// Add support for decentralized marketplaces
