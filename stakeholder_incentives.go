@@ -7,3 +7,4 @@
 // Improve multi-chain transaction processing
 // Improve staking and yield farming logic
 // Fix overflow bug in token calculation
+// Optimize token burn process
