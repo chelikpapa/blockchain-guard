@@ -5,3 +5,4 @@
 // Enhance token swap functionality
 // Add support for decentralized insurance protocols
 // Fix issues with gas optimization in smart contracts
+// Fix issue in token vesting logic
