@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Refactor multi-asset token management
 // Refactor governance token logic
+// Refactor contract state machine design
