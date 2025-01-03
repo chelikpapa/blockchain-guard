@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Optimize decentralized voting mechanisms
 // Update smart contract tests
+// Fix bug in random number generation
