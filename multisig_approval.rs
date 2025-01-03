@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Refactor voting mechanism
 // Add batch transaction capabilities
+// Integrate chain-agnostic oracles
