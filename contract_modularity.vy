@@ -3,3 +3,4 @@
 // Enhance token swap functionality
 // Add support for delegation in governance
 // Implement liquidity pool staking mechanism
+// Implement price feed oracles for tokens
