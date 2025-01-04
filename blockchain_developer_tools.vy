@@ -9,3 +9,4 @@
 // Improve on-chain governance systems
 // Improve decentralized exchange (DEX) liquidity
 // Update testing framework for Solidity
+// Implement liquidity pool staking mechanism
