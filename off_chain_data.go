@@ -10,3 +10,4 @@
 // Fix issues with token vesting contracts
 // Optimize cross-chain communication
 // Fix race condition in staking pool
+// Fix edge case in unstaking logic
