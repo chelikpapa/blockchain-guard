@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Improve contract creation process
 // Integrate zk-rollups for scaling
+// Improve security for token minting contracts
