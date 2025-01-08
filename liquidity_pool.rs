@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Integrate Chainlink oracles
 // Refactor validator reward system
+// Integrate multi-chain liquidity pools
