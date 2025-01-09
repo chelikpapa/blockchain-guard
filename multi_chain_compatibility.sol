@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Refactor contract event emission
 // Integrate decentralized oracles for data feeds
+// Fix compatibility with MetaMask
