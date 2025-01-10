@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Integrate with multi-token standards
 // Implement on-chain fee adjustment mechanisms
+// Add multi-sig wallet functionality
