@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Improve gas fee estimation accuracy
 // Enhance developer documentation
+// Enhance privacy features using zk-STARKs
