@@ -8,3 +8,4 @@
 // Enhance smart contract compatibility
 // Integrate privacy-enhancing smart contracts
 // Integrate zk-rollups for scaling
+// Refactor Ethereum gas price management
