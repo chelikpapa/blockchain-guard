@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Add support for ERC-1155 tokens
 // Refactor token economics model
+// Refactor token economics model
