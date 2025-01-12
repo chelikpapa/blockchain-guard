@@ -6,3 +6,4 @@
 // Enhance smart contract upgradeability
 // Integrate IPFS for storage
 // Optimize decentralized voting mechanisms
+// Fix ERC-1155 contract interactions
