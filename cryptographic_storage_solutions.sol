@@ -8,3 +8,4 @@
 // Add support for NFT marketplaces
 // Fix deserialization bug in Haskell code
 // Enhance developer documentation
+// Fix errors in contract interaction with wallets
