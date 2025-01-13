@@ -4,3 +4,4 @@
 // Fix Oracle communication delay issues
 // Fix issues with cross-chain transaction finality
 // Implement cross-platform contract compatibility
+// Refactor reward pooling algorithm
