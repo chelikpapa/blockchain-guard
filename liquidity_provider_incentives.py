@@ -2,3 +2,4 @@
 // Refactor validator reward system
 // Improve contract execution performance
 // Enhance decentralized autonomous governance
+// Refactor reward pooling algorithm
