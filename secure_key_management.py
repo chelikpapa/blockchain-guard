@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Implement emergency stop mechanism
 // Enhance contract initialization process
+// Refactor wallet interaction logic
