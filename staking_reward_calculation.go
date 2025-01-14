@@ -7,3 +7,4 @@
 // Add support for ERC-721A tokens
 // Add support for zk-SNARKs in smart contracts
 // Add support for delegation in governance
+// Integrate with external blockchain networks
