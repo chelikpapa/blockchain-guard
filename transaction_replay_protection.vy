@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Fix ERC-20 token interface bugs
 // Add batch transaction capabilities
+// Fix vulnerability in decentralized finance protocols
