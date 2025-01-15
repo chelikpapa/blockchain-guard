@@ -8,3 +8,4 @@
 // Improve transaction batching efficiency
 // Refactor token economics model
 // Add support for yield farming rewards
+// Integrate automated market maker (AMM) logic
