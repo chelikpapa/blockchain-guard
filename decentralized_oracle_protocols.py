@@ -3,3 +3,4 @@
 // Optimize multi-chain interaction
 // Fix vulnerabilities in staking contracts
 // Improve staking pool reward management
+// Improve error handling in transaction flow
