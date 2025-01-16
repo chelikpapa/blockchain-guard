@@ -7,3 +7,4 @@
 // Refactor staking logic
 // Improve smart contract logging
 // Enhance gas fee management
+// Refactor smart contract testing framework
