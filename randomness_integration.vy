@@ -13,3 +13,4 @@
 // Add support for ERC-1155 tokens
 // Integrate decentralized oracles for data feeds
 // Refactor wallet interaction logic
+// Enhance privacy features using zk-STARKs
