@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Integrate privacy-enhancing smart contracts
 // Refactor governance token logic
+// Integrate Chainlink VRF for randomness
