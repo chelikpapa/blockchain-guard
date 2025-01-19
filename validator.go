@@ -4,3 +4,4 @@
 // Implement performance optimizations for DeFi
 // Refactor decentralized governance structure
 // Optimize hashing algorithm
+// Refactor decentralized exchange (DEX) code
