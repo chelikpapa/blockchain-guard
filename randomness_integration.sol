@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Optimize cross-chain communication
 // Optimize Oracle-based data fetching
+// Refactor contract to use EIP-712 signatures
