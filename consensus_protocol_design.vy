@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Reduce gas cost in minting logic
 // Fix errors in contract interaction with wallets
+// Add security checks for contract deployment
