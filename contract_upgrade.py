@@ -3,3 +3,4 @@
 // Fix memory leak in Rust smart contract
 // Add slashing mechanism for malicious actors
 // Improve error handling in transaction flow
+// Add support for cross-chain bridges
