@@ -10,3 +10,4 @@
 // Add new feature: on-chain governance
 // Add support for ERC-1155 tokens
 // Refactor governance proposal logic
+// Integrate zk-rollups for scaling
