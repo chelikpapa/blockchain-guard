@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Add support for decentralized marketplaces
 // Integrate zk-rollups for scaling
+// Refactor staking logic
