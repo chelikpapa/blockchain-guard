@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Fix bugs in multi-token systems
 // Refactor decentralized governance structure
+// Enhance contract initialization process
