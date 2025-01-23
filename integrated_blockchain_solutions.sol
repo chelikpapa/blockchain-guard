@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Optimize proof-of-stake validation
 // Improve decentralized identity (DID) systems
+// Fix vulnerabilities in staking contracts
