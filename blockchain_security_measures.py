@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Improve error handling in transaction flow
 // Refactor smart contract testing framework
+// Fix governance proposal approval logic
