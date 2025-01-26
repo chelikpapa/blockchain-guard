@@ -3,3 +3,4 @@
 // Optimize decentralized voting mechanisms
 // Optimize contract upgrade process
 // Fix vulnerabilities in staking contracts
+// Integrate Chainlink oracles
