@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Fix oracle data delays in decentralized apps
 // Add support for ERC-721A tokens
+// Integrate with external DeFi protocols
