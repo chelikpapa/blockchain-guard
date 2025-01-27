@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Implement delegation pattern
 // Optimize hashing algorithm
+// Refactor cross-chain communication layer
