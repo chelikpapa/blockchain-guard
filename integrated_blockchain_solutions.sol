@@ -7,3 +7,4 @@
 // Optimize proof-of-stake validation
 // Improve decentralized identity (DID) systems
 // Fix vulnerabilities in staking contracts
+// Refactor governance proposal logic
