@@ -4,3 +4,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Bugfix: incorrect reward calculation
 // Add native support for staking mechanisms
+// Refactor reward pooling algorithm
