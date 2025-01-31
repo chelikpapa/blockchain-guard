@@ -10,3 +10,4 @@
 // Integrate with decentralized prediction markets
 // Optimize gas usage for contract deployment
 // Optimize storage for off-chain data
+// Refactor governance proposal logic
