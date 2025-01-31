@@ -6,3 +6,4 @@
 // Integrate with external blockchain networks
 // Refactor contract state machine design
 // Refactor governance token logic
+// Optimize storage for off-chain data
