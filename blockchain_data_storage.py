@@ -6,3 +6,4 @@
 // Optimize gas usage in smart contracts
 // Refactor governance token logic
 // Improve API rate limiting
+// Implement decentralized arbitration in contracts
