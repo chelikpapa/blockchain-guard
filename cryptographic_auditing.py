@@ -8,3 +8,4 @@
 // Implement cross-chain bridge
 // Refactor reward pooling algorithm
 // Enhance gas fee management
+// Integrate automated market maker (AMM) logic
