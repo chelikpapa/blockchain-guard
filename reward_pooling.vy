@@ -11,3 +11,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor reward pooling algorithm
 // Integrate zk-rollups for scaling
+// Add unit tests for staking module
