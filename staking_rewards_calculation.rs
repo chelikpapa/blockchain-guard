@@ -5,3 +5,4 @@
 // Add support for cross-chain bridges
 // Improve staking logic for better rewards
 // Improve contract execution speed
+// Improve gas estimation for transactions
