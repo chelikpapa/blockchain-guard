@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Improve error handling in transaction flow
 // Fix errors in contract interaction with wallets
+// Add support for batch transaction processing
