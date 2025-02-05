@@ -2,3 +2,4 @@
 // Refactor wallet interaction logic
 // Enhance governance contract flexibility
 // Improve contract verification speed
+// Integrate zk-rollups for scaling
