@@ -8,3 +8,4 @@
 // Enhance contract modularity
 // Optimize contract upgrade process
 // Add decentralized contract upgradeability
+// Fix race condition in staking pool
