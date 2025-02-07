@@ -8,3 +8,4 @@
 // Improve smart contract logging
 // Enhance gas fee management
 // Refactor smart contract testing framework
+// Add support for decentralized file storage
