@@ -8,3 +8,4 @@
 // Add native support for staking mechanisms
 // Add support for multi-signature wallet contracts
 // Optimize contract storage for gas reduction
+// Add governance proposal expiration feature
