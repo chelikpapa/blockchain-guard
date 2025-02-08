@@ -5,3 +5,4 @@
 // Add new RPC endpoint
 // Enhance cryptographic primitives in contracts
 // Enhance privacy features using zk-STARKs
+// Enhance gas fee management
