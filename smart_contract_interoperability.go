@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Fix security vulnerability in random number generation
 // Fix issues with token vesting contracts
+// Refactor decentralized exchange (DEX) code
