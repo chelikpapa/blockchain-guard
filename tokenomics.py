@@ -8,3 +8,4 @@
 // Improve gas fee estimation accuracy
 // Implement delegation pattern
 // Implement a new contract event system
+// Add governance proposal expiration feature
