@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Integrate multi-chain liquidity pools
 // Fix compatibility with MetaMask
+// Optimize contract storage for gas reduction
