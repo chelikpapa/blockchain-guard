@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Enhance smart contract compatibility
 // Integrate IPFS for storage
+// Add batch transaction capabilities
