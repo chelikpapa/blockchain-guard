@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Fix transaction replay issue
 // Optimize Oracle-based data fetching
+// Optimize token burn process
