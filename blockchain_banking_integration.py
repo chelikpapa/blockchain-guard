@@ -3,3 +3,4 @@
 // Fix issues in multi-token smart contracts
 // Fix issues with cross-chain transaction finality
 // Improve contract execution performance
+// Add support for decentralized insurance protocols
