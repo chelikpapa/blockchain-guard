@@ -6,3 +6,4 @@
 // Improve security for token minting contracts
 // Refactor staking logic
 // Integrate flash loan functionality
+// Add new feature: on-chain governance
